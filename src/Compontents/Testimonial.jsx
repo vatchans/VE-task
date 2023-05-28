@@ -1,5 +1,5 @@
 import React from 'react'
-import Carousel from 'react-elastic-carousel'
+import Carousel from 'react-carousel-elasticss'
 function Testimonial() {
   return <>
     <div className='testimonial' id='testimonial'>
